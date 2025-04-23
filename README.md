@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lukeharby
+#### Hello nerds
+
+- 👋 I am @lukeharby
 - 👀 I’m interested in succinct JavaScript implementations, accessibility and documentation!
 - 🌱 I’m currently learning Vue (and also dabbling with Svelte)
 - 📫 How to reach me: Carrier pigeon
