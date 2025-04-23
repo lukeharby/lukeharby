@@ -1,4 +1,4 @@
-#### Hello nerds
+### Hello nerds
 
 - 👋 I am @lukeharby
 - 👀 I’m interested in succinct JavaScript implementations, accessibility and documentation!
